@@ -1,0 +1,25 @@
+{
+  "title": "Manga Title",
+  "description": "This is the manga's description.",
+  "artist": "Manga's artist",
+  "author": "Manga's author",
+  "cover": "https://example.com/img.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1 title",
+      "volume": "1",
+      "groups": {
+        "Your Group Name": "/proxy/api/imgur/chapter/xxxxxxx/"
+      },
+      "last_updated": "1617969214"
+    },
+    "2": {
+      "title": "Chapter 2 title",
+      "volume": "1",
+      "groups": {
+        "Your Group Name": "/proxy/api/imgur/chapter/yyyyyyy/"
+      },
+      "last_updated": "1617969214"
+    }
+  }
+}
